@@ -11,7 +11,7 @@ body {
 }
 
 .logo {
-    height: 235px;
+    height: 245px;
 }
 
 .register-btn {
@@ -179,11 +179,15 @@ footer {
     .banner-content {
         min-height: 538px;
     }
+
+    .logo {
+        height: 275px;
+    }
 }
 
 @media (min-width: 1200px) {
     .logo {
-        height: 250px;
+        height: 300px;
     }
 }
 
@@ -193,6 +197,6 @@ footer {
     }
 
     .logo {
-        height: 300px;
+        height: 315px;
     }
 }
