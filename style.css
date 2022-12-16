@@ -84,6 +84,7 @@ footer {
 #email {
     font-size: 1.25rem; 
     font-weight: bold;
+    color: #f7e018;
 }
 
 @media (max-width: 576px) {
