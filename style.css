@@ -69,16 +69,16 @@ footer {
     font-size: 1.35rem;
 }
 
+.question-row:hover {
+    cursor: pointer;
+}
+
 .question-row + .question-row {
     border-top: 1px solid rgba(0, 0, 0, 0.175);
 }
 
 .question-text {
     font-weight: bold;
-}
-
-.chevron:hover {
-    cursor: pointer;
 }
 
 #email {
