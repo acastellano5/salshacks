@@ -41,7 +41,7 @@ h2 {
     font-weight: bold;
 }
 
-p {
+p, .form-link {
     font-size: 1.25rem; 
     font-weight: 500;
 }
@@ -87,6 +87,15 @@ footer {
     color: #f7e018;
 }
 
+.form-link {
+    color: #f7e018;
+}
+
+.form-link:hover {
+    color: #ccb911;
+    transition: 0.1s ease-in;
+}
+
 @media (max-width: 576px) {
     * {
         font-size: 12px;
@@ -100,7 +109,7 @@ footer {
         height: 175px;
     }
 
-    p {
+    p, .form-link {
         font-size: 1.1rem;
     }
 
