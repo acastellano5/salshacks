@@ -104,6 +104,11 @@ footer {
     max-width: 800px;
 }
 
+.coming-soon-card {
+    width: 100%;
+    height: 350px;
+}
+
 @media (max-width: 576px) {
     * {
         font-size: 12px;
