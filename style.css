@@ -109,6 +109,11 @@ footer {
     height: 350px;
 }
 
+.schedule-img {
+    width: 95%;
+    max-width: 750px;
+}
+
 @media (max-width: 576px) {
     * {
         font-size: 12px;
